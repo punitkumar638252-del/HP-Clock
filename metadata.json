@@ -1,0 +1,6 @@
+{
+  "name": "HP Clock",
+  "description": "HP Clock - Digital Timepiece featuring live digital clock, smart alarms, precision stopwatch, countdown timer, and international world clock.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
